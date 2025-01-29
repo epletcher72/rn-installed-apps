@@ -1,7 +1,7 @@
 {
-  "name": "react-native-installed-apps",
+  "name": "rn-installed-apps",
   "version": "0.0.4",
-  "main": "index.js",
+  "main": "index.ts",
   "keywords": [
     "react-native",
     "ios",
@@ -9,7 +9,7 @@
     "applications",
     "apps"
   ],
-  "repository": "dimapaloskin/react-native-installed-apps",
+  "repository": "epletcher72/rn-installed-apps",
   "author": {
     "name": "Dmitry Pavlovsky",
     "email": "dima@paloskin.me",

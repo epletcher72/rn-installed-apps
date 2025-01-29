@@ -1,5 +1,5 @@
 import { NativeModules } from "react-native";
 
-const InstalledAppList = NativeModules.InstalledAppList;
+const getInstalledApps = NativeModules.InstalledAppList.getAll;
 
-export default InstalledAppList;
+export { getInstalledApps };
